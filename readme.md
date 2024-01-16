@@ -8,3 +8,5 @@ User Login
 akun Admin
 user: admin
 pw: 123
+
+link akses: localhost/full-crudphp
